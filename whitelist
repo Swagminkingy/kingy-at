@@ -1,5 +1,5 @@
 local id = {
-  3959817094, -- SwagminPro
+  3959817094, -- kingy
 }
 
 return id;
