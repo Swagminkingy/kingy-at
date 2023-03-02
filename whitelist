@@ -1,4 +1,5 @@
-userids = {
-[3959817094] = true,
+local id = {
+  3959817094, -- SwagminPro
 }
-return userids
+
+return id;
