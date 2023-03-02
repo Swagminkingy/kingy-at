@@ -1,3 +1,4 @@
-local id = {
-  3959817094, -- kingy
+userid = {
+[3959817094] = true,
 }
+return userids
