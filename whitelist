@@ -1,4 +1,4 @@
-userid = {
+userids = {
 [3959817094] = true,
 }
 return userids
