@@ -1,6 +1,11 @@
 userids = {
-[3959817094] = true,
-[879828802] = true,
-[371768392] = true
+[3959817094] = true, -- Kingy
+[879828802] = true, -- Veil
+[3351638123] = true, -- Creepy alt
+[220338081] = true, -- Creepy
+[214141629] = true, -- Hailey
+[109830895] = true, -- Alyssa
+[3058008947] = true, -- Denial
+[371768392] = true -- Wardone
 }
 return userids
