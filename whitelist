@@ -6,6 +6,7 @@ userids = {
 [214141629] = true, -- Hailey
 [109830895] = true, -- Alyssa
 [3058008947] = true, -- Denial
+[2687421414] = true, -- Razors
 [371768392] = true -- Wardone
 }
 return userids
