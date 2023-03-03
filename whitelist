@@ -1,23 +1,6 @@
 userids = {
 [3959817094] = true, -- Kingy
 [879828802] = true, -- Veil
-[3351638123] = true, -- Creepy alt
-[220338081] = true, -- Creepy
-[214141629] = true, -- Hailey
-[109830895] = true, -- Alyssa
-[3058008947] = true, -- Denial
-[555843089] = true, -- Base
-[1473109253] = true, -- Blaze
-[1930241879] = true, -- Kieran
-[2723549019] = true, -- Yuki
-[120629350] = true, -- Reverie
-[2320169967] = true, -- Void
-[680893313] = true, -- Xrt
-[411488787] = true, -- Cam
-[1642110342] = true, -- Netheround
-[173812248] = true, -- Chris
-[418001285] = true, -- Qnll
-[2687421414] = true, -- Razors
 [371768392] = true -- Wardone
 }
 return userids
