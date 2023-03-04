@@ -2,7 +2,8 @@ userids = {
 [3959817094] = true, -- Kingy
 [879828802] = true, -- Veil
 [4335484219] = true, -- kingy alt
-[10949617] = true,
 [371768392] = true -- Wardone
+[10949617] = true,
+[656910376] = true
 }
 return userids
