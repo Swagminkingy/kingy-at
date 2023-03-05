@@ -4,6 +4,7 @@ userids = {
 [4335484219] = true, -- kingy alt
 [371768392] = true, -- Wardone
 [10949617] = true,
+[430226449] = true,
 [656910376] = true
 }
 return userids
